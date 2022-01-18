@@ -1,0 +1,66 @@
+.creditCard {
+    display: inline-block;
+    margin-top: 100px;
+    position: absolute;
+}
+
+.creditCard .ccBackground {
+    width: 300px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.creditCard .ccChip {
+    position: absolute;
+    bottom: 140px;
+    right: 240px;
+    width: 45px;
+}
+
+.creditCard .ccVisa {
+    position: absolute;
+    bottom: 145px;
+    right: 20px;
+    width: 45px;
+}
+
+.creditCard .ccName {
+    color: white;
+    position: absolute;
+    bottom: 14px;
+    left: 20px;
+}
+.creditCard .ccNameLabel {
+    color: white;
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+    font-size: small;
+}
+
+.creditCard .ccNumber {
+    color: white;
+    position: absolute;
+    bottom: 80px;
+    left: 50px;
+}
+
+.creditCard .ccExp {
+    color: white;
+    position: absolute;
+    bottom: 14px;
+    left: 200px;
+}
+
+.creditCard .ccExpLabel {
+    color: white;
+    position: absolute;
+    bottom: 40px;
+    left: 200px;
+    font-size: small;
+}
+
+.ccRow td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
