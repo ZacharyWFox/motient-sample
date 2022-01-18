@@ -1,3 +1,8 @@
+# Notes:
+
+Was initialized with Create React App. Original code was mostly gutted.
+Requires bootstrap, those are the only UI elements or packages added to this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
